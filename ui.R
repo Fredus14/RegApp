@@ -36,7 +36,7 @@ shinyUI(
                      "3. Select the outcome variable.",br(),
                      "4. Select the regressors among remaining variables.",br(),
                      "5. The 'Model Summary' tab displays model details",br(),
-                     "6. The 'Diagnostic Plots' tab provies residuals analysis"), 
+                     "6. The 'Diagnostic Plots' tab provides residuals analysis"), 
         
            h5("Obs.: "),
            helpText("Help me support The Royal Brompton Hospital, London.",
